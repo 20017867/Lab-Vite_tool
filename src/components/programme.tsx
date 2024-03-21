@@ -23,4 +23,4 @@ const list = props.modules.map((module, index) => (
   )
 }
 
-export default Programme;
+export default Programme
